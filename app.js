@@ -10,3 +10,5 @@ app.use('/tasks', taskRoutes);
 app.listen(PORT, () => {
     console.log('Servidor escuchando en el puerto', PORT);
 });
+
+export default app;
