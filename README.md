@@ -46,3 +46,4 @@ Restricciones:
 ## 🧪 Ejecutar tests
 ```bash
 npm run test
+ guiate con el archivo de las pruebas el task.test.js
